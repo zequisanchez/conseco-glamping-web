@@ -4,7 +4,7 @@ Sitio web estático y responsive para **ConsECO**, una empresa ficticia de aloja
 
 La temática une las dos cosas que estudié: desarrollo web y turismo sostenible.
 
-🔗 **Demo:** https://zequisanchez.github.io/conseco/
+🔗 **Demo:** https://zequisanchez.github.io/conseco-glamping-web/
 
 ---
 
@@ -44,7 +44,7 @@ La temática une las dos cosas que estudié: desarrollo web y turismo sostenible
 ## 📁 Estructura
 
 ```
-conseco/
+conseco-glamping-web/
 ├── index.html          # Home
 ├── paginas/            # Reservar, Glamping, Nosotros, Contacto
 ├── scss/               # Código fuente de los estilos (parciales por sección)
@@ -60,7 +60,7 @@ conseco/
 
 1. Cloná el repositorio:
    ```bash
-   git clone https://github.com/zequisanchez/conseco.git
+   git clone https://github.com/zequisanchez/conseco-glamping-web.git
    ```
 2. Abrí `index.html` en el navegador. No hace falta instalar nada.
 
